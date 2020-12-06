@@ -20,15 +20,15 @@ Project is created with:
 * React, Javascript,CSS,Bootstrap.
 
 ## Contact
-* Email - rendod09@gmail.com
+* Email - rendod99@gmail.com
 * GitHub - rendod99
             
 ## Links
 * Github link:
- -https://github.com/rendod99/Employee_Directory
+ -https://github.com/rendod99/employee-directory/tree/master/employeedirectory
 
 * Deployed link:
--
+-https://rendod99.github.io/employee-directory/
 
 ## Screenshot:
 <img width="1677" alt="Screen Shot 2020-12-05 at 6 20 09 PM" src="https://user-images.githubusercontent.com/66277385/101268252-9dc2b400-3726-11eb-8864-58bf0c600fbe.png">
